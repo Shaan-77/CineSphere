@@ -6,7 +6,7 @@ The application showcases a list of movies with their titles, posters, and basic
 
 While it does not include backend integration or dynamic data fetching, this project effectively demonstrates key frontend concepts and serves as a portfolio piece to showcase my skills in building responsive, single-page applications with React.
 ## DEMO
-cinesphere-movies.netlify.app
+[cinesphere-movies.netlify.app](https://cinesphere-movies.netlify.app/)
 
 ## Authors
 

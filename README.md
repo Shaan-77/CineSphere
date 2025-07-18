@@ -5,6 +5,9 @@ Movie Explorer is a static, frontend-focused movie website built using React. De
 The application showcases a list of movies with their titles, posters, and basic details, all presented in a clean and interactive layout. Navigation between pages is handled using React Router, allowing for a smooth and seamless user experience across different views such as the home page, movie details, and category-specific listings.
 
 While it does not include backend integration or dynamic data fetching, this project effectively demonstrates key frontend concepts and serves as a portfolio piece to showcase my skills in building responsive, single-page applications with React.
+## DEMO
+cinesphere-movies.netlify.app
+
 ## Authors
 
 - [@YahyaShanawazMohammed](https://github.com/shaan-77)

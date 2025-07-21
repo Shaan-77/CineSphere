@@ -1,4 +1,4 @@
-🍿 CineSphere – Frontend Movie Showcase Using React
+## 🍿 CineSphere – Frontend Movie Showcase Using React
 
 Movie Explorer is a static, frontend-focused movie website built using React. Developed as part of my learning journey, this project was designed to improve my understanding of modern frontend development practices, including component-based architecture, responsive UI design, and client-side routing.
 
